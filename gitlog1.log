@@ -1,0 +1,74 @@
+commit c9f9a2cce6c00bb5f22bbbfd4c97734890784e1d
+Author: Faydin <faydin@student.tgm.ac.at>
+Date:   Thu Feb 23 10:34:12 2017 +0100
+
+    Revert "Hauptordner"
+    
+    This reverts commit 7e0df648f5cd0d477d4aae98d449105e2a037c2f.
+
+ .gitignore | 1 -
+ 1 file changed, 1 deletion(-)
+
+commit 345bc3314b37e6306c3ff32454a9e407c9ffaa39
+Author: Faydin <faydin@student.tgm.ac.at>
+Date:   Thu Feb 23 10:24:13 2017 +0100
+
+    change6
+
+ Datei2.txt | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 8fc82a578b1dad49accdc35738fb53655959c6ab
+Author: Faydin <faydin@student.tgm.ac.at>
+Date:   Thu Feb 23 10:16:38 2017 +0100
+
+    change5
+
+ Datei.txt | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 46640b3e7158b90eb1b1ed1cf732cd3938ec04ca
+Author: Faydin <faydin@student.tgm.ac.at>
+Date:   Thu Feb 23 10:12:18 2017 +0100
+
+    change3
+
+ Subdirectory/Datei2.txt | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit a3cc9122a3e85734de7fdb16bc7ac2aabca4b228
+Author: Faydin <faydin@student.tgm.ac.at>
+Date:   Thu Feb 23 10:10:11 2017 +0100
+
+    change
+
+ Subdirectory/Datei2.txt | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 477383c06801d6c664d303b8b3b6a951e80803fe
+Author: Faydin <faydin@student.tgm.ac.at>
+Date:   Thu Feb 23 09:34:58 2017 +0100
+
+    Dateien erstellt
+
+ Datei.txt               | 0
+ Subdirectory/Datei2.txt | 0
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 9d0910844d8f5af3674d09ae688747904c6050d8
+Author: Faydin <faydin@student.tgm.ac.at>
+Date:   Thu Feb 23 09:31:46 2017 +0100
+
+    Datei 1 erstelllt im Subdirectory
+
+ Subdirectory/Datei1.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 7e0df648f5cd0d477d4aae98d449105e2a037c2f
+Author: Faydin <faydin@student.tgm.ac.at>
+Date:   Wed Feb 22 23:02:54 2017 +0100
+
+    Hauptordner
+
+ .gitignore | 1 +
+ 1 file changed, 1 insertion(+)
